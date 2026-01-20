@@ -2,6 +2,10 @@
 
 A Flutter application for tracking daily expenses with persistent local storage using Hive.
 
+## Screenshot
+
+![Expense Tracker Screenshot](screenshot.png)
+
 ## Features
 
 - ✅ Add, view, and delete expenses
